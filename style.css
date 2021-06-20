@@ -1,0 +1,9 @@
+body {
+    background-color: lime;
+}
+
+.header img {
+    border-style: double;
+    width: min-content;
+    height: min-content;
+}
